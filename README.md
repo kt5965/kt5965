@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![kt5965's GitHub stats](https://github-readme-stats.vercel.app/api?username=kt5965&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 <!--
 **kt5965/kt5965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
